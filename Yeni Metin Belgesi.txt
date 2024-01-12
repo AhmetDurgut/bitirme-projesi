@@ -1,0 +1,3 @@
+# Bitirme-Projesi
+Metinlerin sınıflandırılması için Makine Öğrenimi metotları ve uygulaması 
+Bu Bitirme Projesinde, metin madenciliği için en sık kullanılan makine öğrenimi metotları incelenmiştir. Problemin yapısına uygun olarak yöntemlerden hangisinin tercih edilmesi gerekeceği noktasında algoritmaların birbirlerine olan üstünlükleri ve olumsuz tarafları analiz edilmiştir. Bir metin dokümantasyonu içerisinde kelimelerin cümle ve metnin tamamı özelinde ne ifade ettiği ve nasıl anlamlı sayısal ifadelere dönüştürüleceği açıklanmıştır.
